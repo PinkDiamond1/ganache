@@ -50,7 +50,7 @@
   "dependencies": {
     "@ethereumjs/common": "2.4.0",
     "@ethereumjs/tx": "3.3.0",
-    "@ethereumjs/vm": "5.5.0",
+    "@ethereumjs/vm": "6.0.0",
     "@ganache/ethereum-address": "0.1.1-alpha.0",
     "@ganache/rlp": "0.1.1-alpha.0",
     "@ganache/utils": "0.1.1-alpha.0",
